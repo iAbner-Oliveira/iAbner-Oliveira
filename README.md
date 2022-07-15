@@ -1,4 +1,4 @@
-## Olá, me chamo Abner Oliveira e sou Engenheiro de Software e programador Python!
+## Olá, me chamo Abner Oliveira.
 
 <div align="center">
   <a href="https://github.com/iAbner-Oliveira">
