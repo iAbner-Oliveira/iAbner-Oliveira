@@ -16,8 +16,6 @@
   <img align="center" alt="Abner-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </div>
-  
- ##
  
  ![Snake animation](https://github.com/iAbner-Oliveira/iAbner-Oliveira/blob/output/github-contribution-grid-snake.svg)
  
