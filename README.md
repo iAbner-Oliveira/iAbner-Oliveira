@@ -1,9 +1,11 @@
-## Olá, me chamo Abner Oliveira e sou Engenheiro de Software e programador Python!
+## Hello, my name is Abner Oliveira! Welcome to my GitHub.
 
-<div align="center">
-  <a href="https://github.com/iAbner-Oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iAbner-Oliveira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAbner-Oliveira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAbner-Oliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAbner-Oliveira&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+    
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Abner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -17,7 +19,7 @@
   
 </div>
  
-  ##
+##
   
 <div>
   <a href="https://www.linkedin.com/in/abner-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
