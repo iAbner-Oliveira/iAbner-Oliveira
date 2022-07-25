@@ -1,11 +1,11 @@
 ## Hello, my name is Abner Oliveira! Welcome to my GitHub.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAbner-Oliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iAbner-Oliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAbner-Oliveira&layout=compact&langs_count=7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  </div>
 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAbner-Oliveira&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-    
+   
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Abner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
