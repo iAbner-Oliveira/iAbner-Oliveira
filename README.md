@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/iAbner-Oliveira">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAbner-Oliveira)](https://github.com/anuraghazra/github-readme-stats)
+   (https://github-readme-stats.vercel.app/api?username=iAbner-Oliveira)](https://github.com/anuraghazra/github-readme-stats)
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAbner-Oliveira&layout=compact&theme=codeSTACKr&)](https://github.com/iAbner-Oliveira/github-readme-stats">
 </div>
 <div style="display: inline_block"><br>
